@@ -1,0 +1,3 @@
+regime,runs_with_true_coordinate,runs_all_recovered_true_signs_correct,sign_run_accuracy_conditional
+kmax10,1967,1885,0.958312
+unrestricted,1900,1788,0.941053
