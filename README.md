@@ -2,7 +2,7 @@
 
 This repository contains the code associated with the article:
 
-**Compatibility of unate Boolean functions via coverage vectors **
+** Compatibility of unate Boolean functions via coverage vectors **
 
 The project implements algorithms and experiments for studying the compatibility of binary observations with unate Boolean functions. Given two sets of observations,
 
